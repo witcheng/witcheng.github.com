@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://witcheng.github.com/atom.xml" rel="self"/>
-  <link href="http://witcheng.github.com/"/>
-  <updated>2012-02-22T00:23:47+08:00</updated>
-  <id>http://witcheng.github.com/</id>
+  <title><![CDATA[人总得留点什么，I'm chjj.]]></title>
+  <link href="http://chjj.me/atom.xml" rel="self"/>
+  <link href="http://chjj.me/"/>
+  <updated>2012-02-22T00:40:14+08:00</updated>
+  <id>http://chjj.me/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[chjj]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Octopress + GitHub is so COOL.]]></title>
-    <link href="http://witcheng.github.com/blog/2012/02/21/octopress-plus-github-is-so-cool/"/>
+    <link href="http://chjj.me/blog/2012/02/21/octopress-plus-github-is-so-cool/"/>
     <updated>2012-02-21T23:52:00+08:00</updated>
-    <id>http://witcheng.github.com/blog/2012/02/21/octopress-plus-github-is-so-cool</id>
+    <id>http://chjj.me/blog/2012/02/21/octopress-plus-github-is-so-cool</id>
     <content type="html"><![CDATA[<p>This is a new post!!!
 wa&#8230;&#8230;</p>
 ]]></content>
