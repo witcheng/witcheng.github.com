@@ -2,18 +2,24 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://chjj.me/blog/2012/02/21/octopress-plus-github-is-so-cool/</loc>
-        <lastmod>2012-02-21T23:53:12+08:00</lastmod>
+        <lastmod>2012-02-22T20:37:48+08:00</lastmod>
     </url>
     <url>
         <loc>http://chjj.me/blog/2012/02/22/an-zhuang-octopress-plus-githubde-shou-ji/</loc>
         <lastmod>2012-02-22T00:42:51+08:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://chjj.me/blog/2012/02/22/markdownbian-ji-qi-moushi-yong-%2Cyu-fa-zhan-shi/
+        </loc>
+        <lastmod>2012-02-22T20:36:56+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://chjj.me/blog/archives/</loc>
-        <lastmod>2012-02-22T00:42:51+08:00</lastmod>
+        <lastmod>2012-02-22T20:37:48+08:00</lastmod>
     </url>
     <url>
         <loc>http://chjj.me/</loc>
-        <lastmod>2012-02-22T00:42:51+08:00</lastmod>
+        <lastmod>2012-02-22T20:37:48+08:00</lastmod>
     </url>
 </urlset>
